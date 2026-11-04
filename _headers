@@ -3,6 +3,9 @@
   Cross-Origin-Embedder-Policy: require-corp
   Cross-Origin-Resource-Policy: same-origin
 
+/galaxy.html
+  Cross-Origin-Resource-Policy: cross-origin
+
 /*.data
   Cache-Control: public, max-age=604800
 
